@@ -1,5 +1,7 @@
 # Official prompt / video evidence
 
+> **Moved.** This gallery now lives in [oldwinter/official-prompt-gallery](https://github.com/oldwinter/official-prompt-gallery) under [`video/`](https://github.com/oldwinter/official-prompt-gallery/tree/main/video), with full history. This repository is archived; its Pages site redirects to <https://oldwinter.github.io/official-prompt-gallery/video/>.
+
 This repository is a small, static evidence sheet for two exact video prompts.
 It compares one sample per prompt and route after private authoring:
 
